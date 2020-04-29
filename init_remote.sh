@@ -3,7 +3,7 @@
 Dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $Dir
 
-cat > .gitignore <<IGNORE
+cat > .gitignore<<IGNORE
 .DS_Store
 init_remote.*
 commmit.*
