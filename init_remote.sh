@@ -5,7 +5,7 @@ cd $Dir
 
 cat > .gitignore<<IGNORE
 .DS_Store
-init_remote.*
+init_remote.sh
 commmit.*
 IGNORE
 
